@@ -16,6 +16,6 @@ public class Example14 {
     }
 
     public static void main(String[] args) {
-        System.out.println(allFib(5));
+        allFib(5);
     }
 }
