@@ -2,6 +2,7 @@ package bigO;
 
 public class Example15 {
 
+    // time: O(N) | space: O(1)
     static void allFib(int n) {
         int[] memo = new int[n + 1];
 
